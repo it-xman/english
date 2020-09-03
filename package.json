@@ -60,7 +60,6 @@
     "regenerator-runtime": "^0.12.1",
     "vue": "^2.6.11",
     "vue-class-component": "^6.3.2",
-    "vue-property-decorator": "^8.0.0",
     "vuex": "^3.2.0"
   },
   "devDependencies": {
@@ -87,6 +86,8 @@
     "sass": "^1.26.10",
     "sass-loader": "^10.0.1",
     "typescript": "^3.0.0",
+    "vue-class-decorator": "^7.6.3",
+    "vue-property-decorator": "^9.0.0",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
